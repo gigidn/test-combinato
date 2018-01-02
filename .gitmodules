@@ -1,0 +1,3 @@
+[submodule "oca_italy"]
+	path = oca_italy
+	url = https://github.com/OCA/l10n-italy.git
